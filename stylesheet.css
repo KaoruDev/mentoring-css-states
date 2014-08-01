@@ -1,0 +1,21 @@
+.container {
+  width: 600;
+  border: thin #eee solid;
+}
+
+.top-container {
+
+}
+
+.button {
+  float: left;
+  height: 50px;
+  width: 200px;
+  background: #ddd;
+  border: 1px solid #ccc;
+  text-align: center;
+  cursor: pointer;
+  line-height: 50px;
+}
+
+
