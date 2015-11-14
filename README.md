@@ -19,7 +19,7 @@ git clone git@github.com:KaoruDev/mentoring-css-states.git
 
 ### Objective
 
-Your company's designer has given you layouts of a text box that allows users to choose the text alignment of another their story. Cause #reasons.
+Your company's designer has given you layouts of a text box that allows users to choose the text alignment of their story. Cause #reasons.
 
 
 Left Alignment:
